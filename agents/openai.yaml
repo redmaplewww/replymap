@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReplyMap"
+  short_description: "Map complex AI replies into readable architecture diagrams"
+  default_prompt: "Use $reply-architecture for long responses that benefit from an architecture diagram."
